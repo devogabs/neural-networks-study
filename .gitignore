@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and Large Files (Recommended for NN projects)
+*.csv
+*.h5
+*.pth
+*.npy
+data/
+
+# OS specific files
+.DS_Store
